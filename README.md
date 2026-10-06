@@ -2,7 +2,7 @@
 
 ## Identitas Mahasiswa
 * **Nama**: ADAM MAULANA FIRMANSYAH
-* **NIM**: 25430042
+* **NpM**: 25430042
 * **Kelas **: B
 
 ## Informasi Proyek

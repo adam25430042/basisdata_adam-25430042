@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS kopma_042;
+CREATE DATABASE IF NOT EXISTS klinik_042;
 CREATE USER IF NOT EXISTS 'tamu_042'@'localhost' IDENTIFIED BY 'password123';
-GRANT SELECT ON kopma_042.* TO 'tamu_042'@'localhost';
+GRANT SELECT ON klinik_042.* TO 'tamu_042'@'localhost';
 FLUSH PRIVILEGES;
