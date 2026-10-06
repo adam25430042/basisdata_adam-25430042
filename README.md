@@ -8,4 +8,5 @@
 ## Informasi Proyek
 * **Tema Proyek**: KLINIK
 * **Nama Organisasi Fiktif**: BUNDA SEHAT
-* **Lingkup Layanan**: Menjadi pusat layanan kesehatan ibu dan anak yang terdepan dan profesional melalui pelayanan prima, aman, serta berorientasi pada keselamatan dan kepuasan pasien.
+* **Nama Database**: `klinik_042`
+* **Lingkup Layanan**: Klinik BUNDA SEHAT menyediakan layanan kesehatan ibu dan anak secara terpadu, meliputi pendaftaran pasien, rekam medis pengobatan, jadwal dokter, serta transaksi pembayaran layanan dan obat secara terkomputerisasi.
