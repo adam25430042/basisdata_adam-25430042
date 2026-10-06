@@ -5,7 +5,7 @@ CREATE DATABASE IF NOT EXISTS kopma_042 CHARACTER SET utf8mb4 COLLATE utf8mb4_un
 
 CREATE USER IF NOT EXISTS 'mhs_042'@'localhost' IDENTIFIED BY 'PasswordKerja';
 
-GRANT ALL PRIVILEGES ON kopma_042.* TO 'mhs_062'@'localhost';
+GRANT ALL PRIVILEGES ON kopma_042.* TO 'mhs_042'@'localhost';
 
 FLUSH PRIVILEGES;
 
