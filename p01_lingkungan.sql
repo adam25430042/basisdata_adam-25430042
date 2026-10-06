@@ -12,6 +12,6 @@ FLUSH PRIVILEGES;
 
 CREATE USER IF NOT EXISTS 'tamu_042'@'localhost' IDENTIFIED BY 'PasswordKerja';
 
-GRANT ALL PRIVILEGES ON kopma_062.* TO 'tamu_042'@'localhost';
+GRANT ALL PRIVILEGES ON kopma_042.* TO 'tamu_042'@'localhost';
 
 FLUSH PRIVILEGES;
