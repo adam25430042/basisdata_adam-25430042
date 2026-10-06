@@ -1,2 +1,26 @@
+# --- Kredensial dan Data Sensitif ---
 *.env
 kredensial*.txt
+password.txt
+secret.json
+
+# --- Berkas Cadangan Basis Data & Ekspor Lokal ---
+*.sql.bak
+*.sql.tmp
+dump*.sql
+
+# --- Berkas Sistem Operasi ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Berkas Pengaturan Editor & Workspace ---
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# --- Berkas Log dan Temporary ---
+*.log
+*.tmp
+temp/
